@@ -7,8 +7,6 @@ Package.on_use(function (api) {
     // FILES
 
     'Kalendae/build/arrows.png',
-    'Kalendae/build/kalendae.min.js',
-    'Kalendae/build/kalendae.js',
     'Kalendae/build/kalendae.css',
     'Kalendae/build/close.png',
     'Kalendae/build/kalendae.standalone.min.js'
