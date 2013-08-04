@@ -1,0 +1,9 @@
+{
+  "name": "kalendae",
+  "description": "Kalendae for Meteor (https://github.com/chipersoft/kalendae/)",
+  "homepage": "https://github.com/electricjesus/meteor-kalendae",
+  "author": "Seth Malaki <seth.malaki@gmail.com>",
+  "version": "0.4.1",
+  "git": "https://github.com/electricjesus/meteor-kalendae.git",
+  "packages": {}
+}
